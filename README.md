@@ -13,4 +13,4 @@
  * [Django](https://netology.ru/backend/api/user/programs/29808/pdf_certificate)
  
 
-[GitHub](https://github.com/Elena20221)
+
