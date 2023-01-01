@@ -13,5 +13,4 @@
  * [Django](https://netology.ru/backend/api/user/programs/29808/pdf_certificate)
  
 
-![Визитка](https://user-images.githubusercontent.com/104794088/210180498-a75feb5c-d879-4e69-aeff-c3fd2e214400.png)
-[Portfolio](Визитка.png)
+
