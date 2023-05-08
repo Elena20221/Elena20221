@@ -9,6 +9,7 @@
  - [Python-разработка для начинающих](https://netology.ru/backend/api/user/programs/25523/pdf_certificate)
  - [Python-разработчик с нуля](https://netology.ru/backend/api/user/programs/27176/pdf_certificate)
  - [Основы SQL](https://netology.ru/backend/api/user/programs/27904/pdf_certificate)
+ 
 
 ### Сертификаты Нетологии
 
