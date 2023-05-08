@@ -5,18 +5,23 @@
 #### Linux, Windows, Bash, Python, Django Framework,PostgreSQL, Git.
 
 
-## Сертификаты Нетологии
+## Пройденные курсы
+ - [Python-разработка для начинающих](https://netology.ru/backend/api/user/programs/25523/pdf_certificate)
+ - [Python-разработчик с нуля](https://netology.ru/backend/api/user/programs/27176/pdf_certificate)
+ - [Основы SQL](https://netology.ru/backend/api/user/programs/27904/pdf_certificate)
 
- * [Профессиональная работа с Python](https://netology.ru/backend/api/user/programs/29956/pdf_certificate)
- * [Git — система контроля версий](https://netology.ru/backend/api/user/programs/27308/pdf_certificate)
- * [Базы данных](https://netology.ru/backend/api/user/programs/29949/pdf_certificate)
- * [Django](https://netology.ru/backend/api/user/programs/29808/pdf_certificate)
+### Сертификаты Нетологии
+
+  * [Профессиональная работа с Python](https://netology.ru/backend/api/user/programs/29956/pdf_certificate)
+  * [Git — система контроля версий](https://netology.ru/backend/api/user/programs/27308/pdf_certificate)
+  * [Базы данных](https://netology.ru/backend/api/user/programs/29949/pdf_certificate)
+  * [Django](https://netology.ru/backend/api/user/programs/29808/pdf_certificate)
  
 
 ### :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-ElenaGladkih-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Glhelena) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:gladkihelena0110@gmail.com)
 
 
-### ⚙️ GitHub статистика:
+#### ⚙️ GitHub статистика:
 
 <table>
   <tr>
